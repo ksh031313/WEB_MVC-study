@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.seung.demowebmvc.DemoWebMvcApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.819 s - in me.seung.demowebmvc.DemoWebMvcApplicationTests

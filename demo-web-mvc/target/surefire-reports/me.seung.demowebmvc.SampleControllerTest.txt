@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: me.seung.demowebmvc.SampleControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.92 s <<< FAILURE! - in me.seung.demowebmvc.SampleControllerTest
+eventTest  Time elapsed: 0.147 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at me.seung.demowebmvc.SampleControllerTest.eventTest(SampleControllerTest.java:23)
+
+eventTest2  Time elapsed: 0.158 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<500>
+	at me.seung.demowebmvc.SampleControllerTest.eventTest2(SampleControllerTest.java:33)
+
